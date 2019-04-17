@@ -11,4 +11,4 @@ Compute the nth fibonacci number.
    - The 1st fibonacci number is 1
    - The 6th fibonacci number is 8
 
-<b>Further reading</b>: Learn more on [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number).
+<b>Further reading</b>: Learn more on [Fibonacci](https://en.wikipedia.org/wi ki/Fibonacci_number).
